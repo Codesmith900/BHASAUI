@@ -1,6 +1,6 @@
 # bhaa
 
-A new Flutter project.
+A new Flutter project. It includes an interactive page where one can indulge in the history and culture of nepal. It also has a real time detection of object and translates it to newari along with the pronounciation.
 
 ## Getting Started
 
